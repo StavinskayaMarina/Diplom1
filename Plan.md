@@ -79,6 +79,6 @@ MSI GF63 Thin 11UD; 16GB RAM; Windows 11 Pro, 22631.3447.
 
 ## Документация
 - [Чек-лист](https://github.com/StavinskayaMarina/Diplom1/blob/main/Check.xlsx)
-- [Тест-кейсы]()
+- [Тест-кейсы](https://github.com/StavinskayaMarina/Diplom1/blob/main/Cases.xlsx)
 
   
